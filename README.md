@@ -12,8 +12,8 @@ aws-redis proof of concept
  - create  new ec2 instance and install redis
    https://shawn-shi.medium.com/how-to-install-redis-on-ec2-server-for-fast-in-memory-database-f30c3ef8c35e
 
-
-
+ - install perl module for redis
+    https://metacpan.org/pod/Redis
 
 # Screenshots #1
 ```
